@@ -1,10 +1,15 @@
-# CS 104 Project Repository
+# Facebook App Sample Code
 
 - **Name**: Youssef Biaz
-- **USC ID**: 5371284503
 - **Email**: biaz@usc.edu
 
-
+This sample code is a project I'm currently working on for
+class. We're creating our own basic Netflix. This is still only in its
+first stages, so the only functionality available is creating users,
+logging in, and searching for movies based on titles or keywords (the
+only two films in the data file for now are City Lights and The
+Princess Bride, but you can add your own films with keywords to the
+movie data file and it will work.
 
 ***Compilation Instructions***: To compile, just run `make`. Then to
    run with the provided data file, just type the command `bin/main
